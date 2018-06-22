@@ -27,7 +27,7 @@
 1. Click on the "Add Category" button
 1. The new Category "Work" is displayed and showing in Blue color as expected
 
-## Test Case ID** : TC_NSS_TODO_003
+## Test Case ID : TC_NSS_TODO_003
 
 ### Test Case Name : Verify Modify/Delete TODO functionality
 #### Steps:
