@@ -21,7 +21,7 @@ import org.testng.annotations.Test;
  * @author Shimei Zheng
  */
 
-public class SeleniumRCTest {
+public class FrontendAutomation {
 
 	private WebDriver driver;
 
