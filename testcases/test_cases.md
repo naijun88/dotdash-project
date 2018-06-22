@@ -1,4 +1,3 @@
-//please add your test cases here.
 
 # Test Cases:
 
@@ -7,14 +6,14 @@
 **Test Case Name**: Verify Create a TODO functionality.
 **Steps:**
 
-1) Launch the Server
-2) Enter a value "buy flowers" in the Add field
-3) Select category "Personal" from the Category dropdown list
-4) Select "1" from due date dropdown list
-5) Select "Jul" from month dropdown list
-6) Select "2018" from year dropdown list
-7) Click on the "Add" button
-8) The "buy flower" TODO is displayed and showing in the same color like Personal Category
+1. Launch the Server
+1. Enter a value "buy flowers" in the Add field
+1. Select category "Personal" from the Category dropdown list
+1. Select "1" from due date dropdown list
+1. Select "Jul" from month dropdown list
+1. Select "2018" from year dropdown list
+1. Click on the "Add" button
+1. The "buy flower" TODO is displayed and showing in the same color like Personal Category
    and date format as "01/07/18"
 
 ## Test Case ID : TC_NSS_TODO_002
