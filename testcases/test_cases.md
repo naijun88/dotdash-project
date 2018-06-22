@@ -3,8 +3,8 @@
 
 ## Test Case ID : TC_NSS_TODO_002
 
-**Test Case Name**: Verify Create a TODO functionality.
-**Steps:**
+### Test Case Name : Verify Create a TODO functionality.
+#### Steps:
 
 1. Launch the Server
 1. Enter a value "buy flowers" in the Add field
